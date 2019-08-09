@@ -31,7 +31,7 @@ const convert = (req, res) =>{
     XLSX.writeFile(wb, "./public/sheetTemp.xlsx");
 
     const filePath =  "./public/sheetTemp.xlsx"
-    var fileName = 'Result'
+    var fileName = 'ConvertedResult.xlsx'
     
     
     fs.exists(filePath, function(exists){
