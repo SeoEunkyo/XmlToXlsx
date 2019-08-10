@@ -5,7 +5,7 @@
 i have created an example source that converts the xml to Excelsheets. way to convert xml->json->exel.
 
 
-> 시작하는 방법:  cmd 창에서 npm start 를 입력시면 됩니다.  
+> 시작하는 방법:  cmd 창에서 "npm start" 를 입력시면 됩니다.  
   To get started: input "npm start" in the cmd.
 
 
