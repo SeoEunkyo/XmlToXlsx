@@ -7,3 +7,7 @@ i have created an example source that converts the xml to Excelsheets. way to co
 
 > 시작하는 방법:  cmd 창에서 npm start 를 입력시면 됩니다.  
   To get started: input "npm start" in the cmd.
+
+
+> 테스트를 위해서 testXMLtxt라는 파일을 첨부하였습니다.  
+Attached for test is a file named testXMLtxt.
